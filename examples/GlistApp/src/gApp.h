@@ -1,8 +1,8 @@
 /*
  * gApp.h
  *
- *  Created on: May 6, 2020
- *      Author: Noyan Culum
+ *  Created on: Aug 7, 2026
+ *      Author: Mert Sanli
  */
 
 #ifndef GAPP_H_

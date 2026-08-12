@@ -1,6 +1,8 @@
 /*
  * gipLibgizmoPrimitive3D.h
  *
+ *      Author: Mert Sanli
+ *
  * Small gMesh-backed helper used to draw ad hoc 3D line/triangle geometry
  * every frame (line loops, triangle fans, etc.), so LibGizmo's vendored
  * render layer (GizmoTransformRender.cpp) can draw through GlistEngine's
