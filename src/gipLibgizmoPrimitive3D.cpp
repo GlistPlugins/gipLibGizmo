@@ -1,5 +1,7 @@
 /*
  * gipLibgizmoPrimitive3D.cpp
+ *
+ *      Author: Mert Sanli
  */
 
 #include "gipLibgizmoPrimitive3D.h"

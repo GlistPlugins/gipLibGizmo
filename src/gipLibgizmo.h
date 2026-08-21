@@ -1,5 +1,7 @@
 /*
  * gipLibgizmo.h
+ *
+ *      Author: Mert Sanli
  */
 
 #ifndef SRC_GIPLIBGIZMO_H_

@@ -1,5 +1,7 @@
 /*
  * gipLibgizmo.cpp
+ *
+ *      Author: Mert Sanli
  */
 
 #include "gipLibgizmo.h"
